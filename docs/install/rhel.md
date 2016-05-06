@@ -1,4 +1,4 @@
-# apache install
+# apache install rhel
 
 ## References
 * https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Managing_Confined_Services/chap-Managing_Confined_Services-The_Apache_HTTP_Server.html
