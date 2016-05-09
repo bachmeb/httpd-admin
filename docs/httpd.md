@@ -46,3 +46,14 @@ sudo /usr/sbin/httpd -S
 VirtualHost configuration:
 Syntax OK
 */
+
+##### Version
+```
+sudo /usr/sbin/httpd -version
+```
+```c
+/*
+Server version: Apache/2.2.3
+Server built:   Jul 18 2014 04:46:39
+*/
+```
