@@ -20,3 +20,8 @@ total 68
 -rw-r--r-- 1 root root 1541 Apr 28 04:02 error_log.3
 -rw-r--r-- 1 root root 2148 Apr  5 12:47 error_log.4
 ```
+
+##### Read the most recent error log file
+```
+sudo cat /var/log/httpd/error_log
+```
