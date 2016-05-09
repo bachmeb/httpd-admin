@@ -1,4 +1,7 @@
+# httpd
 
+## References
+* http://serverfault.com/questions/247748/httpd-dead-but-subsys-locked
 
 ##### Help
 ```
