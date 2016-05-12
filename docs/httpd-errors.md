@@ -6,5 +6,8 @@
 
 ##### Permission denied: access to /index.php denied
 ```
+cat /var/logs/httpd/error_log
+```
+```
 [Thu May 12 14:47:47 2016] [error] [client 0.0.0.0] (13)Permission denied: access to /index.php denied
 ```
