@@ -71,5 +71,14 @@ Complete!
 */
 ```
 
+##### Where is php?
+```
+whereis php
+```
+```c
+/*
+php: /usr/bin/php /etc/php.ini /etc/php.d /usr/lib64/php /usr/share/php /usr/share/man/man1/php.1.gz
+*/
+```
 
 
